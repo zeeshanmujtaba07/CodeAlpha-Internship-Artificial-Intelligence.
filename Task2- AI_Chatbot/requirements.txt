@@ -1,0 +1,12 @@
+ai_chatbot/               # Main project folder
+│
+├── app.py                 # Flask backend (main Python file)
+│
+├── requirements.txt       # List of required libraries for easy installation
+│
+├── templates/             # All HTML files
+│   └── index.html         # Main chatbot webpage
+│
+└── static/                # All static files (CSS, JS, images)
+    ├── style.css          # Chat styling (left-right chat bubble style)
+    └── script.js          # Chat functionality (frontend logic)
